@@ -1,0 +1,2 @@
+## Extract the data
+unzip geth.zip -d /NAME_OF_YOUR_HOME/node &
